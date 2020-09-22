@@ -1,0 +1,1 @@
+I'm planning to add my rice dotfiles to this repo
